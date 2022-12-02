@@ -1,0 +1,8 @@
+Realizar un script llamado '01-RUN.sh' que muestre por pantalla "Hola mundo!" 
+
+sudo touch 01-run.sh
+sudo nano 01-RUN.sh
+echo ¡Hola mundo!
+“ctrl s y ctrl x para guardar y salir”
+sudo chmod +x ./01-RUN.sh
+sudo ./01-RUN.sh
